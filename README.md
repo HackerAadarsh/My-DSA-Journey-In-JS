@@ -3,6 +3,7 @@
 This repo documents my daily learning of Data Structures and Algorithms using JavaScript.
 
 ## 🗂 Topics Covered
+- Basics of the Language (Getting Comfortable with Language)
 - Arrays
 - Strings
 - Linked Lists
